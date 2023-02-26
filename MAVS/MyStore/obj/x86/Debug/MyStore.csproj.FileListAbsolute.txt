@@ -1,0 +1,59 @@
+E:\C#\MyStore\MyStore\bin\Debug\MyStore.exe
+E:\C#\MyStore\MyStore\bin\Debug\MyStore.pdb
+E:\C#\MyStore\MyStore\obj\x86\Debug\MyStore.DeshBoard.resources
+E:\C#\MyStore\MyStore\obj\x86\Debug\MyStore.Login.resources
+E:\C#\MyStore\MyStore\obj\x86\Debug\MyStore.Properties.Resources.resources
+E:\C#\MyStore\MyStore\obj\x86\Debug\MyStore.csproj.GenerateResource.Cache
+E:\C#\MyStore\MyStore\obj\x86\Debug\MyStore.exe
+E:\C#\MyStore\MyStore\obj\x86\Debug\MyStore.pdb
+E:\C#\MyStore\MyStore\obj\x86\Debug\MyStore.CreateUser.resources
+E:\C#\MyStore\MyStore\obj\x86\Debug\MyStore.Bill.resources
+E:\C#\MyStore\MyStore\bin\Debug\mystore.mdb
+E:\C#\MyStore\MyStore\obj\x86\Debug\MyStore.csprojResolveAssemblyReference.cache
+E:\C#\MyStore\MyStore\obj\x86\Debug\MyStore.ChangePassword.resources
+E:\C#\MyStore\MyStore\obj\x86\Debug\MyStore.UpdateProduct.resources
+E:\C#\MyStore\MyStore\obj\x86\Debug\MyStore.AddProduct.resources
+E:\C#\MyStore\MyStore\obj\x86\Debug\MyStore.ViewSale.resources
+E:\C#\MyStore\MyStore\bin\Debug\MyStore.exe.config
+E:\C#\MyStore\MyStore\obj\x86\Debug\MyStore.UserBuy.resources
+E:\C#\MyStore\MyStore\obj\x86\Debug\MyStore.Contact.resources
+C:\Users\Radio Popular\Desktop\FDS-IP\GeneralStore-master\MyStore\bin\Debug\mystore.mdb
+C:\Users\Radio Popular\Desktop\FDS-IP\GeneralStore-master\MyStore\bin\Debug\MyStore.exe.config
+C:\Users\Radio Popular\Desktop\FDS-IP\GeneralStore-master\MyStore\bin\Debug\MyStore.exe
+C:\Users\Radio Popular\Desktop\FDS-IP\GeneralStore-master\MyStore\bin\Debug\MyStore.pdb
+C:\Users\Radio Popular\Desktop\FDS-IP\GeneralStore-master\MyStore\obj\x86\Debug\MyStore.csproj.AssemblyReference.cache
+C:\Users\Radio Popular\Desktop\FDS-IP\GeneralStore-master\MyStore\obj\x86\Debug\MyStore.AddProduct.resources
+C:\Users\Radio Popular\Desktop\FDS-IP\GeneralStore-master\MyStore\obj\x86\Debug\MyStore.Bill.resources
+C:\Users\Radio Popular\Desktop\FDS-IP\GeneralStore-master\MyStore\obj\x86\Debug\MyStore.ChangePassword.resources
+C:\Users\Radio Popular\Desktop\FDS-IP\GeneralStore-master\MyStore\obj\x86\Debug\MyStore.Contact.resources
+C:\Users\Radio Popular\Desktop\FDS-IP\GeneralStore-master\MyStore\obj\x86\Debug\MyStore.CreateUser.resources
+C:\Users\Radio Popular\Desktop\FDS-IP\GeneralStore-master\MyStore\obj\x86\Debug\MyStore.DeshBoard.resources
+C:\Users\Radio Popular\Desktop\FDS-IP\GeneralStore-master\MyStore\obj\x86\Debug\MyStore.Login.resources
+C:\Users\Radio Popular\Desktop\FDS-IP\GeneralStore-master\MyStore\obj\x86\Debug\MyStore.Properties.Resources.resources
+C:\Users\Radio Popular\Desktop\FDS-IP\GeneralStore-master\MyStore\obj\x86\Debug\MyStore.UpdateProduct.resources
+C:\Users\Radio Popular\Desktop\FDS-IP\GeneralStore-master\MyStore\obj\x86\Debug\MyStore.UserBuy.resources
+C:\Users\Radio Popular\Desktop\FDS-IP\GeneralStore-master\MyStore\obj\x86\Debug\MyStore.ViewSale.resources
+C:\Users\Radio Popular\Desktop\FDS-IP\GeneralStore-master\MyStore\obj\x86\Debug\MyStore.csproj.GenerateResource.cache
+C:\Users\Radio Popular\Desktop\FDS-IP\GeneralStore-master\MyStore\obj\x86\Debug\MyStore.csproj.CoreCompileInputs.cache
+C:\Users\Radio Popular\Desktop\FDS-IP\GeneralStore-master\MyStore\obj\x86\Debug\MyStore.exe
+C:\Users\Radio Popular\Desktop\FDS-IP\GeneralStore-master\MyStore\obj\x86\Debug\MyStore.pdb
+C:\Users\Radio Popular\Desktop\MAVS\MyStore\obj\x86\Debug\MyStore.csproj.AssemblyReference.cache
+C:\Users\Radio Popular\Desktop\MAVS\MyStore\obj\x86\Debug\MyStore.AddProduct.resources
+C:\Users\Radio Popular\Desktop\MAVS\MyStore\obj\x86\Debug\MyStore.Bill.resources
+C:\Users\Radio Popular\Desktop\MAVS\MyStore\obj\x86\Debug\MyStore.ChangePassword.resources
+C:\Users\Radio Popular\Desktop\MAVS\MyStore\obj\x86\Debug\MyStore.Contact.resources
+C:\Users\Radio Popular\Desktop\MAVS\MyStore\obj\x86\Debug\MyStore.CreateUser.resources
+C:\Users\Radio Popular\Desktop\MAVS\MyStore\obj\x86\Debug\MyStore.DeshBoard.resources
+C:\Users\Radio Popular\Desktop\MAVS\MyStore\obj\x86\Debug\MyStore.Login.resources
+C:\Users\Radio Popular\Desktop\MAVS\MyStore\obj\x86\Debug\MyStore.Properties.Resources.resources
+C:\Users\Radio Popular\Desktop\MAVS\MyStore\obj\x86\Debug\MyStore.UpdateProduct.resources
+C:\Users\Radio Popular\Desktop\MAVS\MyStore\obj\x86\Debug\MyStore.UserBuy.resources
+C:\Users\Radio Popular\Desktop\MAVS\MyStore\obj\x86\Debug\MyStore.ViewSale.resources
+C:\Users\Radio Popular\Desktop\MAVS\MyStore\obj\x86\Debug\MyStore.csproj.GenerateResource.cache
+C:\Users\Radio Popular\Desktop\MAVS\MyStore\obj\x86\Debug\MyStore.csproj.CoreCompileInputs.cache
+C:\Users\Radio Popular\Desktop\MAVS\MyStore\obj\x86\Debug\MyStore.exe
+C:\Users\Radio Popular\Desktop\MAVS\MyStore\obj\x86\Debug\MyStore.pdb
+C:\Users\Radio Popular\Desktop\MAVS\MyStore\bin\Debug\mystore.mdb
+C:\Users\Radio Popular\Desktop\MAVS\MyStore\bin\Debug\MyStore.exe.config
+C:\Users\Radio Popular\Desktop\MAVS\MyStore\bin\Debug\MyStore.exe
+C:\Users\Radio Popular\Desktop\MAVS\MyStore\bin\Debug\MyStore.pdb
